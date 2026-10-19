@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/BATTESIMO/index.html" },
+    { "source": "/assets/:file*", "destination": "/BATTESIMO/assets/:file*" }
+  ]
+}
