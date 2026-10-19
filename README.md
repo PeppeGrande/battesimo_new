@@ -1,6 +1,6 @@
-# Battesimo di Maggie
+# Battesimo di Megan
 
-Invito digitale per il Santo Battesimo di Maggie: busta con sigillo da aprire, ghirlanda di roselline e nebbiolina, conto alla rovescia, programma della giornata, "Salva la data" e conferma della presenza via WhatsApp.
+Invito digitale per il Santo Battesimo di Megan: busta con sigillo da aprire, ghirlanda di roselline e nebbiolina, conto alla rovescia, programma della giornata, "Salva la data" e conferma della presenza via WhatsApp.
 
 ## Avvio in locale
 
