@@ -1,0 +1,24 @@
+node_modules/
+npm-debug.log*
+
+# Impostazioni locali di Claude Code
+.claude/settings.local.json
+
+# Bozze da girare ai genitori (si rigenerano dalla pagina)
+Invito-Battesimo-Maggie-bozza.*
+
+# Prove e materiale non usato dall'invito
+BATTESIMO/anteprima-musica/
+BATTESIMO/anteprime/
+BATTESIMO/index.html.bak
+BATTESIMO/lembo-000.png
+BATTESIMO/vdfr_wc36aw79.mp4
+
+# Asset: si caricano solo quelli usati dalla pagina
+BATTESIMO/assets/*
+!BATTESIMO/assets/apertura-busta-omni-4k.mp4
+!BATTESIMO/assets/busta-sigillo.jpg
+!BATTESIMO/assets/calice.png
+!BATTESIMO/assets/musica-a-modo-tuo.m4a
+!BATTESIMO/assets/ristorante.jpg
+!BATTESIMO/assets/villa-hirta.jpg
